@@ -1,0 +1,1 @@
+this is file about how to use git
